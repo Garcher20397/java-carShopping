@@ -9,7 +9,7 @@ package car.shopping;
 
 public class CarShopping
 {
-    
+   
     // Create static Scanner Object call it kb
 
    public static void main(String[] args)
