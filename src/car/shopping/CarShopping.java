@@ -6,7 +6,7 @@
 package car.shopping;
 import java.util.Scanner;
 // Import Scanner Class
-
+ 
 public class CarShopping
 {
    private static Scanner kb = new Scanner(System.in);
