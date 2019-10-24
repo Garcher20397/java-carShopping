@@ -5,8 +5,8 @@
  */
 package car.shopping;
 import java.util.Scanner;
-// Import Scanner Class
  
+ //Grant Archer Period 2
 public class CarShopping
 {
    private static Scanner kb = new Scanner(System.in);
